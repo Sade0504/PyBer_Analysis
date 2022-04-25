@@ -1,3 +1,6 @@
 # PyBer_Analysis
 ## Resources
-- Python 
+- Software: Python3.10.4
+- Jupyter Notebook
+## Overview
+
